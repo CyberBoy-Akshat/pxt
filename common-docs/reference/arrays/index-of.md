@@ -3,7 +3,7 @@
 Get the index (position) of the first element in the array that matches a search item.
 
 ```sig
-["hello"].indexOf("hello")
+["Instagram id cyberakshat"].indexOf("Instagram id cyberakshat")
 ```
 
 ## Parameters
